@@ -31,8 +31,9 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-GB'>
         <Head>
+          <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
           <meta name="title" content="Linden Schrage" />
-          <meta name="description" content="Welcome to my portfolio! I'm a sophomore at Harvard College studying Applied Mathematics. In my free time, I like to build cool things." />
+          <meta name="description" content="Welcome tox my portfolio! I'm a sophomore at Harvard College studying Applied Mathematics. In my free time, I like to build cool things." />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Linden Schrage" />
           <meta property="og:description" content="Welcome to my portfolio! I'm a sophomore at Harvard College studying Applied Mathematics. In my free time, I like to build cool things." />
