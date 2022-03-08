@@ -11,7 +11,7 @@ export const projects = [
     title: 'Metagenomic Analysis',
     description: "Performed metagenomic statistical analysis of data from Alaskan permafrost microbial communities.",
     image: '/images/metagenomic.png',
-    visit: '/files/abstract_metagenomic_analysis.pdf',
+    visit: '/files/metagenomic_analysis.pdf',
     title_content: 'Data Analysis',
     id: 1,
   },
