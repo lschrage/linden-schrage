@@ -18,7 +18,7 @@ const Hero = (props) => (
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
-          window.open('/files/resume_web_short.pdf')
+          window.open('/files/resume2022.pdf')
         }}>My Resume</Button>
       </LeftSection>
     </Section>
