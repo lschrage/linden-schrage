@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: 'CNN Doplphin Fin Classification',
-    description: "Created a Convolution Neural Network that identifies individualn dolphins based on pictures of their fins",
+    description: "Created a Convolution Neural Network that identifies dolphins from pictures of fins",
     image: '/images/cnn.png',
     visit: 'https://github.com/lschrage/dolphin-cnn',
     title_content: 'Data Analysis',
@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: 'Covid Task Force Report',
-    description: "Conducted a study to investigate the aerosol removal efficacy of HEPA purifiers in thirteen different rooms on the Harvard College campus",
+    description: "Conducted a study to investigate the aerosol removal efficacy of HEPA purifiers in different rooms on the Harvard College campus",
     image: '/images/data.png',
     visit: '/files/coviddata.pdf',
     title_content: 'Data Analysis',
@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     title: "Analysis of the United States Response to the China-Taiwan Impasse",
-    description: "Identified issues that currently prevent the establishment of constructive negotiation between China and Taiwan and proposed a theory-based strategy for addressing each diagnosis",
+    description: "Identified issues that prevent the establishment of constructive negotiation between China and Taiwan and proposed strategies for addressing each diagnosis",
     image: '/images/chinataiwan.png',
     visit: '/files/china_taiwan_analysis.pdf',
     title_content: 'Writing Sample',

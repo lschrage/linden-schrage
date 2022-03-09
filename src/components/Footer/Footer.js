@@ -10,8 +10,8 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:lschrage@college.com">
-          lschrage@college.com
+          <LinkItem href="mailto:lschrage@college.harvard.edu">
+          lschrage@college.harvard.edu
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -19,7 +19,7 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Made with
           <span role="img" aria-label="heart"> ❤️ </span>
-          by Linden Schrage. </Slogan>
+          by Linden Schrage using NextJS and Tailwind CSS </Slogan>
         </CompanyContainer>
       </SocialIconsContainer>
 
