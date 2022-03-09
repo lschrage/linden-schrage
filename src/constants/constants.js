@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Rocket Launch App',
-    description: "Created a website that allows users to sign up for automatic notifications about upcoming rocket launches.",
+    description: "Created a website that allows users to sign up for automatic notifications about upcoming rocket launches",
     image: '/images/gimmespace.png',
     visit: 'http://gimme-space.herokuapp.com/',
     title_content: 'Website',
@@ -33,7 +33,7 @@ export const projects = [
   },
   {
     title: "Metamodern Analysis of Bo Burnham's Inside",
-    description: "Analyzed the way compedians created authentic relationships with their audiences during the pandemic using Bo Burnham's Inside as a case study",
+    description: "Explored the authenticity of Bo Burnham's Inside through a Metamodern lense",
     image: '/images/metamodern.png',
     visit: '/files/metamodern_essay.pdf',
     title_content: 'Writing Sample',
@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     title: "Analysis of the United States Response to the China-Taiwan Impasse",
-    description: "Identified issues that currently prevent the establishment of constructive negotiation between China and Taiwan and  proposes a theory-based strategy for addressing each diagnosis.",
+    description: "Identified issues that currently prevent the establishment of constructive negotiation between China and Taiwan and proposed a theory-based strategy for addressing each diagnosis",
     image: '/images/chinataiwan.png',
     visit: '/files/china_taiwan_analysis.pdf',
     title_content: 'Writing Sample',
